@@ -1,0 +1,18 @@
+----------------------------------------------------------------
+Fri May 19 21:48:09 IST 2017:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.13.1.1 - (1765088): instance a816c00e-015c-2180-82bd-0000001ce378 
+on database directory /tmp/TVCReport/mydb/message with class loader sun.misc.Launcher$AppClassLoader@b1d8b361 
+Loaded from file:/tmp/TVCReport/lib/derby.jar
+java.vendor=IBM Corporation
+java.runtime.version=pxa6480sr4-20170127_01 (SR4)
+java.fullversion=JRE 1.8.0 IBM J9 2.8 Linux amd64-64 Compressed References 20170117_333500 (JIT enabled, AOT enabled)
+J9VM - R28_20170117_0200_B333500
+JIT  - tr.r14.java.green_20170115_130932
+GC   - R28_20170117_0200_B333500_CMPRSS
+J9CL - 20170117_333500
+user.dir=/home/ventanni/Desktop/python
+os.name=Linux
+os.arch=amd64
+os.version=3.10.0-514.16.1.el7.x86_64
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''

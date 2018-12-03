@@ -1,0 +1,36 @@
+{
+  "spark": {
+    "version": "1.2",
+    "url": "https://artifactory.transcendinsights.com/artifactory/ext-apps-release-local/org/apache/spark/sparkpak/1.2.0/sparkpak-1.2.0-deploy.tgz"
+  },
+  "flink": {
+    "version": "1.4.2",
+    "url": "http://artifactory.transcendinsights.com/artifactory/ext-apps-release-local/org/apache/flink/1.4.2/flink-1.4.2-bin-scala_2.11.gz"
+  },
+  "mysql": {
+    "version": "5.7.22",
+    "common": "http://artifactory.transcendinsights.com/artifactory/ext-rpm-local/com/mysql/mysql-community/5.7.22/mysql-community-common-5.7.22-1.el7.x86_64.rpm",
+    "client": "http://artifactory.transcendinsights.com/artifactory/ext-rpm-local/com/mysql/mysql-community/5.7.22/mysql-community-client-5.7.22-1.el7.x86_64.rpm",
+    "libs": "http://artifactory.transcendinsights.com/artifactory/ext-rpm-local/com/mysql/mysql-community/5.7.22/mysql-community-libs-5.7.22-1.el7.x86_64.rpm"
+  },
+  "tomcat": {
+    "version": "8.5.27",
+    "url": "http://artifactory.transcendinsights.com/artifactory/ext-apps-release-local/org/apache/tomcat-8/apache-tomcat-8.5.27.tar.gz"
+  },
+  "kafka": {
+    "version": "2.11",
+    "url": "http://apache.cs.utah.edu/kafka/1.0.1/kafka_2.11-1.0.1.tgz"
+  },
+  "zookeeper": {
+    "version": "3.4.12",
+    "url": "https://artifactory.transcendinsights.com/artifactory/ext-apps-release-local/org/apache/zookeeper/3.4.12/zookeeper-3.4.12.tar.gz"
+  },
+  "nagios": {
+    "version": "1",
+    "url": "https://assets.nagios.com/downloads/nagiosxi/agents/linux-nrpe-agent.tar.gz"
+  },
+  "java": {
+    "version": "8",
+    "url": "https://artifactory.transcendinsights.com:443/artifactory/ext-apps-release-local/com/oracle/java/1.8.0/jre/server-jre-8u161-linux-x64.tar.gz"
+  }
+}

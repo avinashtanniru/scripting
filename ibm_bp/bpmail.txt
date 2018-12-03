@@ -1,0 +1,15 @@
+<html>
+  <head></head>
+  <body>
+<h2>Hello <b>Team</b>,</h2>
+<br />
+<p>Bluepages sync has completed succesfully.....!<br />
+Please check the attached log file for more details.........<br />
+
+<br />
+**Note: - This is an automated mail please do not reply.<br />
+
+<b>Regards,<br />
+SMOLive Server.</b></p>
+  </body>
+</html>

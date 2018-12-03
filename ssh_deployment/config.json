@@ -1,0 +1,22 @@
+{
+  "app-deployment": [
+    {
+        "app-name" : "Srx Boarder",
+        "sname" : "sericename",
+        "url" : "http://apache.cs.utah.edu/kafka/2.1.0/kafka-2.1.0-src.tgz",
+        "link_folder" : "boarder-service",
+        "extract" : "/var/opt/kafka/",
+        "user" : "root",
+        "ver" : 1.2
+    },
+    {
+        "app-name" : "Srx Boarder",
+        "sname" : "kaf",
+        "url" : "https://assets.nagios.com/downloads/nagiosxi/agents/linux-nrpe-agent.tar.gz",
+        "link_folder" : "boarder-service",
+        "extract" : "/var/opt/add-deployment/",
+        "user" : "srxapp",
+        "ver" : 1.2
+    }
+  ]
+}
